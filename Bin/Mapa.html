@@ -1,0 +1,31 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Geagro</title><script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+<style rel="stylesheet" type="text/css">html,body {height: 100%;margin: 0;padding: 0;}#container {height: 100%;display: flex;}#sidebar {flex-basis: 15rem;flex-grow: 1;
+padding: 1rem;max-width: 30rem;height: 100%;box-sizing: border-box;overflow: auto;display: none;}#map {flex-basis: 0;flex-grow: 4;height: 100%;}</style>
+<script type="text/javascript">
+function initMap() {
+const map = new google.maps.Map(document.getElementById("map"), {
+zoom: 13,
+center: {
+lat: -20.6033717,
+lng: -41.2106458},
+streetViewControl: false,mapTypeControl: true,mapTypeIds: ["satellite", "roadmap"]});
+const kmlLayer = new google.maps.KmlLayer({
+url: "https://raw.githubusercontent.com/wnvmu/wnvmu/main/Area%2001.kml",
+suppressInfoWindows: true,map: map,});
+kmlLayer.addListener("click", (kmlEvent) => {
+const text = kmlEvent.featureData.description;
+showInContentWindow(text);
+if (sidebar.style.display === "block") {
+sidebar.style.display = "none";
+} else {
+sidebar.style.display = "block";
+}});
+function showInContentWindow(text) {
+const sidebar = document.getElementById("sidebar");
+sidebar.innerHTML = text;
+}}
+</script>
+</head>
+<body><div id="container"><div id="map"></div><div id="sidebar" class="container"></div></div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly" async></script>
+</body></html>

@@ -1,0 +1,27 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Propriedades</name><open>1</open><Folder><name>ROBERTO - SEM DOCUMENTO </name><open>1</open><Placemark><name>ROBERTO - ROBERTO</name><description>&lt;!DOCTYPE html&gt;&lt;html&gt;  &lt;head&gt;    &lt;meta charset="utf-8"&gt;    &lt;title&gt;Tecsystem Geagro    &lt;/title&gt;    &lt;meta name="description" content="mapa"&gt;    &lt;link href="mapas.css" rel="stylesheet"&gt;  &lt;/head&gt;  &lt;body&gt;    &lt;table width="100%"&gt;      &lt;tr&gt;        &lt;td class="destaque"&gt;          UTM:        &lt;/td&gt;        &lt;td valign="top"&gt;23 K 642801 m E 7543900 m S        &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;        &lt;td class="destaque"&gt;SEM DOCUMENTO:        &lt;/td&gt;        &lt;td&gt;        &lt;/td&gt;      &lt;/tr&gt;
+      &lt;tr&gt;        &lt;td class="destaque"&gt;          RESPONSÁVEL:        &lt;/td&gt;        &lt;td&gt;ROBERTO - 08.050.761/0001-60        &lt;/td&gt;      &lt;/tr&gt;
+      &lt;tr&gt;        &lt;td class="destaque"&gt;          LOCALIDADE/DISTRITO:        &lt;/td&gt;        &lt;td&gt;AGUAS CLARAS - AGUIA BRANCA        &lt;/td&gt;      &lt;/tr&gt;    &lt;/table&gt;    &lt;p class="destaque centralizado"&gt;      Pessoas vinculadas à propriedade:    &lt;/p&gt;    &lt;table width="100%"&gt;     &lt;tr&gt;      &lt;td class="destaque"&gt;        NOME      &lt;/td&gt;      &lt;td class="destaque"&gt;        CONDIÇÃO      &lt;/td&gt;      &lt;td class="destaque"&gt;        I.E.      &lt;/td&gt;     &lt;/tr&gt;
+     &lt;tr&gt;      &lt;td&gt;ROBERTO      &lt;/td&gt;      &lt;td&gt;PROPRIETÁRIO      &lt;/td&gt;      &lt;td&gt;187.085.705.112      &lt;/td&gt;     &lt;/tr&gt;
+     &lt;tr&gt;      &lt;td&gt;ROBERTO      &lt;/td&gt;      &lt;td&gt;PROPRIETÁRIO      &lt;/td&gt;      &lt;td&gt;      &lt;/td&gt;     &lt;/tr&gt;
+    &lt;/table&gt;    &lt;p class="destaque centralizado"&gt;      Resumo da produção:    &lt;/p&gt;    &lt;table width="100%"&gt;
+    &lt;/table&gt;    &lt;p&gt;     &lt;a href="https://www.tecsystem.com.br"&gt;Tecsystem Tecnologia em Software&lt;/a&gt;    &lt;/p&gt;  &lt;/body&gt;&lt;/html&gt;
+</description><Point><coordinates>-43.614652,-22.204364</coordinates></Point></Placemark><Placemark><name>AREA 01 #1</name><description>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;  &lt;meta charset="utf-8"&gt;  &lt;title&gt;Tecsystem Geagro  &lt;/title&gt;  &lt;meta name="description" content="mapa"&gt;  &lt;meta name="viewport" content="width=device-width"&gt;  &lt;link href="mapas.css" rel="stylesheet"&gt;&lt;/head&gt;&lt;body&gt;  &lt;table width="100%"&gt;        &lt;tr&gt;      &lt;td class="destaque"&gt;        Nome      &lt;/td&gt;      &lt;td valign="top"&gt;        Area 01      &lt;/td&gt;    &lt;/tr&gt;  &lt;/table&gt;  &lt;p&gt;    &lt;a href="https://www.tecsystem.com.br"&gt;Tecsystem Tecnologia em Software&lt;/a&gt;  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><styleUrl>#AREA 01 #1</styleUrl><MultiGeometry><Point><coordinates>-43.6134943757,-22.2036056461,0
+ </coordinates><altitudeMode>clampToGround</altitudeMode></Point><Polygon><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>-43.6147602704,-22.2037462124,0
+ -43.6146500787,-22.2043514891,0
+ -43.6138076144,-22.2047338802,0
+ -43.6129351131,-22.2049622439,0
+ -43.6127360128,-22.2048615701,0
+ -43.6125722332,-22.2046794994,0
+ -43.6123486658,-22.2041471864,0
+ -43.6122604117,-22.2037646728,0
+ -43.6122887895,-22.2034808112,0
+ -43.6124396021,-22.2031686837,0
+ -43.6128707249,-22.2028076265,0
+ -43.6131910745,-22.2026951249,0
+ -43.6136777085,-22.2025851769,0
+ -43.6140621338,-22.2026023483,0
+ -43.6143039412,-22.2026520551,0
+ -43.6145233866,-22.2028042277,0
+ -43.6147107064,-22.2031125585,0
+ -43.6147602704,-22.2037462124,0
+ </coordinates></LinearRing></outerBoundaryIs><altitudeMode>clampToGround</altitudeMode></Polygon></MultiGeometry></Placemark></Folder><Style id="AREA 01 #1"><IconStyle><color>FFFFFFFF</color></IconStyle><LabelStyle><color>FF0000FF</color></LabelStyle><LineStyle><color>7F0000FF</color><width>2</width></LineStyle><PolyStyle><color>7FFFFFFF</color></PolyStyle></Style></Document></kml>
